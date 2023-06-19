@@ -1,10 +1,3 @@
-//
-//  WeatherData.swift
-//  Clima
-//
-//  Created by BS1095 on 16/5/23.
-//  Copyright © 2023 App Brewery. All rights reserved.
-//
 
 import Foundation
 
