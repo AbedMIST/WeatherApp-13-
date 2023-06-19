@@ -1,7 +1,5 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
-#  Clima
+#  Weather_App
 
 ## Our Goal
 
